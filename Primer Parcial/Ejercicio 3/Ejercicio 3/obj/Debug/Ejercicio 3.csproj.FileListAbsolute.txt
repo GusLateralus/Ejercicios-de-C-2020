@@ -1,0 +1,6 @@
+C:\Users\Oscar-PC\Desktop\IPN\2do semestre\Análisis y diseño de programas\Ejercicio 3\Ejercicio 3\obj\Debug\Ejercicio 3.csprojResolveAssemblyReference.cache
+C:\Users\Oscar-PC\Desktop\IPN\2do semestre\Análisis y diseño de programas\Ejercicio 3\Ejercicio 3\bin\Debug\Ejercicio 3.exe.config
+C:\Users\Oscar-PC\Desktop\IPN\2do semestre\Análisis y diseño de programas\Ejercicio 3\Ejercicio 3\bin\Debug\Ejercicio 3.exe
+C:\Users\Oscar-PC\Desktop\IPN\2do semestre\Análisis y diseño de programas\Ejercicio 3\Ejercicio 3\bin\Debug\Ejercicio 3.pdb
+C:\Users\Oscar-PC\Desktop\IPN\2do semestre\Análisis y diseño de programas\Ejercicio 3\Ejercicio 3\obj\Debug\Ejercicio 3.exe
+C:\Users\Oscar-PC\Desktop\IPN\2do semestre\Análisis y diseño de programas\Ejercicio 3\Ejercicio 3\obj\Debug\Ejercicio 3.pdb

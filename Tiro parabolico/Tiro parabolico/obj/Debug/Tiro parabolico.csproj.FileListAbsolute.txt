@@ -1,0 +1,6 @@
+C:\Users\Oscar-PC\Desktop\IPN\2do semestre\Análisis y diseño de programas\Prácticas en C#\Tiro parabolico\Tiro parabolico\bin\Debug\Tiro parabolico.exe.config
+C:\Users\Oscar-PC\Desktop\IPN\2do semestre\Análisis y diseño de programas\Prácticas en C#\Tiro parabolico\Tiro parabolico\bin\Debug\Tiro parabolico.exe
+C:\Users\Oscar-PC\Desktop\IPN\2do semestre\Análisis y diseño de programas\Prácticas en C#\Tiro parabolico\Tiro parabolico\bin\Debug\Tiro parabolico.pdb
+C:\Users\Oscar-PC\Desktop\IPN\2do semestre\Análisis y diseño de programas\Prácticas en C#\Tiro parabolico\Tiro parabolico\obj\Debug\Tiro parabolico.csprojResolveAssemblyReference.cache
+C:\Users\Oscar-PC\Desktop\IPN\2do semestre\Análisis y diseño de programas\Prácticas en C#\Tiro parabolico\Tiro parabolico\obj\Debug\Tiro parabolico.exe
+C:\Users\Oscar-PC\Desktop\IPN\2do semestre\Análisis y diseño de programas\Prácticas en C#\Tiro parabolico\Tiro parabolico\obj\Debug\Tiro parabolico.pdb

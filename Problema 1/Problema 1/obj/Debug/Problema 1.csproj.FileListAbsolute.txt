@@ -1,0 +1,6 @@
+C:\Users\Oscar-PC\Desktop\IPN\2do semestre\Análisis y diseño de programas\Prácticas en C#\Problema 1\Problema 1\obj\Debug\Problema 1.csprojResolveAssemblyReference.cache
+C:\Users\Oscar-PC\Desktop\IPN\2do semestre\Análisis y diseño de programas\Prácticas en C#\Problema 1\Problema 1\bin\Debug\Problema 1.exe.config
+C:\Users\Oscar-PC\Desktop\IPN\2do semestre\Análisis y diseño de programas\Prácticas en C#\Problema 1\Problema 1\bin\Debug\Problema 1.exe
+C:\Users\Oscar-PC\Desktop\IPN\2do semestre\Análisis y diseño de programas\Prácticas en C#\Problema 1\Problema 1\bin\Debug\Problema 1.pdb
+C:\Users\Oscar-PC\Desktop\IPN\2do semestre\Análisis y diseño de programas\Prácticas en C#\Problema 1\Problema 1\obj\Debug\Problema 1.exe
+C:\Users\Oscar-PC\Desktop\IPN\2do semestre\Análisis y diseño de programas\Prácticas en C#\Problema 1\Problema 1\obj\Debug\Problema 1.pdb

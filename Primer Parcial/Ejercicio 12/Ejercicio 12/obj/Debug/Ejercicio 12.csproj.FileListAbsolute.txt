@@ -1,0 +1,6 @@
+C:\Users\Oscar-PC\Desktop\IPN\2do semestre\Análisis y diseño de programas\Prácticas en C#\Ejercicio 12\Ejercicio 12\obj\Debug\Ejercicio 12.csprojResolveAssemblyReference.cache
+C:\Users\Oscar-PC\Desktop\IPN\2do semestre\Análisis y diseño de programas\Prácticas en C#\Ejercicio 12\Ejercicio 12\bin\Debug\Ejercicio 12.exe.config
+C:\Users\Oscar-PC\Desktop\IPN\2do semestre\Análisis y diseño de programas\Prácticas en C#\Ejercicio 12\Ejercicio 12\bin\Debug\Ejercicio 12.exe
+C:\Users\Oscar-PC\Desktop\IPN\2do semestre\Análisis y diseño de programas\Prácticas en C#\Ejercicio 12\Ejercicio 12\bin\Debug\Ejercicio 12.pdb
+C:\Users\Oscar-PC\Desktop\IPN\2do semestre\Análisis y diseño de programas\Prácticas en C#\Ejercicio 12\Ejercicio 12\obj\Debug\Ejercicio 12.exe
+C:\Users\Oscar-PC\Desktop\IPN\2do semestre\Análisis y diseño de programas\Prácticas en C#\Ejercicio 12\Ejercicio 12\obj\Debug\Ejercicio 12.pdb

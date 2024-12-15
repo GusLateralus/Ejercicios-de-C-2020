@@ -1,0 +1,6 @@
+C:\Users\Oscar-PC\Desktop\IPN\2do semestre\Análisis y diseño de programas\Prácticas en C#\Ejercicio 4\Ejercicio 4\bin\Debug\Ejercicio 4.exe.config
+C:\Users\Oscar-PC\Desktop\IPN\2do semestre\Análisis y diseño de programas\Prácticas en C#\Ejercicio 4\Ejercicio 4\bin\Debug\Ejercicio 4.exe
+C:\Users\Oscar-PC\Desktop\IPN\2do semestre\Análisis y diseño de programas\Prácticas en C#\Ejercicio 4\Ejercicio 4\bin\Debug\Ejercicio 4.pdb
+C:\Users\Oscar-PC\Desktop\IPN\2do semestre\Análisis y diseño de programas\Prácticas en C#\Ejercicio 4\Ejercicio 4\obj\Debug\Ejercicio 4.csprojResolveAssemblyReference.cache
+C:\Users\Oscar-PC\Desktop\IPN\2do semestre\Análisis y diseño de programas\Prácticas en C#\Ejercicio 4\Ejercicio 4\obj\Debug\Ejercicio 4.exe
+C:\Users\Oscar-PC\Desktop\IPN\2do semestre\Análisis y diseño de programas\Prácticas en C#\Ejercicio 4\Ejercicio 4\obj\Debug\Ejercicio 4.pdb

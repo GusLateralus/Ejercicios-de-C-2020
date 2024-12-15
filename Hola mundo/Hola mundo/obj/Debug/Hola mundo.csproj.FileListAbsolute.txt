@@ -1,0 +1,6 @@
+C:\Users\Oscar-PC\Desktop\IPN\2do semestre\Análisis y diseño de programas\Prácticas en C#\Hola mundo\Hola mundo\bin\Debug\Hola mundo.exe.config
+C:\Users\Oscar-PC\Desktop\IPN\2do semestre\Análisis y diseño de programas\Prácticas en C#\Hola mundo\Hola mundo\bin\Debug\Hola mundo.exe
+C:\Users\Oscar-PC\Desktop\IPN\2do semestre\Análisis y diseño de programas\Prácticas en C#\Hola mundo\Hola mundo\bin\Debug\Hola mundo.pdb
+C:\Users\Oscar-PC\Desktop\IPN\2do semestre\Análisis y diseño de programas\Prácticas en C#\Hola mundo\Hola mundo\obj\Debug\Hola mundo.csprojResolveAssemblyReference.cache
+C:\Users\Oscar-PC\Desktop\IPN\2do semestre\Análisis y diseño de programas\Prácticas en C#\Hola mundo\Hola mundo\obj\Debug\Hola mundo.exe
+C:\Users\Oscar-PC\Desktop\IPN\2do semestre\Análisis y diseño de programas\Prácticas en C#\Hola mundo\Hola mundo\obj\Debug\Hola mundo.pdb

@@ -1,0 +1,6 @@
+C:\Users\Oscar-PC\Desktop\IPN\2do semestre\Análisis y diseño de programas\Prácticas en C#\Tareas_2Parcial_López Marroquín Gustavo Alonso\Problema 2\Problema 2\bin\Debug\Problema 2.exe.config
+C:\Users\Oscar-PC\Desktop\IPN\2do semestre\Análisis y diseño de programas\Prácticas en C#\Tareas_2Parcial_López Marroquín Gustavo Alonso\Problema 2\Problema 2\bin\Debug\Problema 2.exe
+C:\Users\Oscar-PC\Desktop\IPN\2do semestre\Análisis y diseño de programas\Prácticas en C#\Tareas_2Parcial_López Marroquín Gustavo Alonso\Problema 2\Problema 2\bin\Debug\Problema 2.pdb
+C:\Users\Oscar-PC\Desktop\IPN\2do semestre\Análisis y diseño de programas\Prácticas en C#\Tareas_2Parcial_López Marroquín Gustavo Alonso\Problema 2\Problema 2\obj\Debug\Problema 2.csprojResolveAssemblyReference.cache
+C:\Users\Oscar-PC\Desktop\IPN\2do semestre\Análisis y diseño de programas\Prácticas en C#\Tareas_2Parcial_López Marroquín Gustavo Alonso\Problema 2\Problema 2\obj\Debug\Problema 2.exe
+C:\Users\Oscar-PC\Desktop\IPN\2do semestre\Análisis y diseño de programas\Prácticas en C#\Tareas_2Parcial_López Marroquín Gustavo Alonso\Problema 2\Problema 2\obj\Debug\Problema 2.pdb

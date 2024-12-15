@@ -1,0 +1,6 @@
+C:\Users\Oscar-PC\Desktop\IPN\2do semestre\Análisis y diseño de programas\Prácticas en C#\Ejercicio 8\Ejercicio 8\bin\Debug\Ejercicio 8.exe.config
+C:\Users\Oscar-PC\Desktop\IPN\2do semestre\Análisis y diseño de programas\Prácticas en C#\Ejercicio 8\Ejercicio 8\bin\Debug\Ejercicio 8.exe
+C:\Users\Oscar-PC\Desktop\IPN\2do semestre\Análisis y diseño de programas\Prácticas en C#\Ejercicio 8\Ejercicio 8\bin\Debug\Ejercicio 8.pdb
+C:\Users\Oscar-PC\Desktop\IPN\2do semestre\Análisis y diseño de programas\Prácticas en C#\Ejercicio 8\Ejercicio 8\obj\Debug\Ejercicio 8.csprojResolveAssemblyReference.cache
+C:\Users\Oscar-PC\Desktop\IPN\2do semestre\Análisis y diseño de programas\Prácticas en C#\Ejercicio 8\Ejercicio 8\obj\Debug\Ejercicio 8.exe
+C:\Users\Oscar-PC\Desktop\IPN\2do semestre\Análisis y diseño de programas\Prácticas en C#\Ejercicio 8\Ejercicio 8\obj\Debug\Ejercicio 8.pdb

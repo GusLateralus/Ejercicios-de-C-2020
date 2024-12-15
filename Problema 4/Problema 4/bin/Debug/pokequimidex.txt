@@ -1,0 +1,42 @@
+
+Nombre   : Hidrogeno
+
+Símbolo  : H
+
+Número Atómico   : 1
+
+Masa  : 1 g/mol
+
+Radio   : 1 Angstrom
+
+Estado Ordinario (de agregación)   : Gas
+
+ . . . . . . . . . . . . . . . . . 
+
+Nombre   : Mercurio
+
+Símbolo  : Hg
+
+Número Atómico   : 80
+
+Masa  : 200.59 g/mol
+
+Radio   : 2 Angstrom
+
+Estado Ordinario (de agregación)   : Liquido
+
+ . . . . . . . . . . . . . . . . . 
+
+Nombre   : Hidrógeno
+
+Símbolo  : H
+
+Número Atómico   : 1
+
+Masa  : 1 g/mol
+
+Radio   : 1 Angstrom
+
+Estado Ordinario (de agregación)   : Gaseoso
+
+ . . . . . . . . . . . . . . . . . 
