@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "VariablesYoperadores/1.0.0": {
+        "runtime": {
+          "VariablesYoperadores.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VariablesYoperadores/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

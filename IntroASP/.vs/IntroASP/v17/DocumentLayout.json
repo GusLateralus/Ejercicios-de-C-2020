@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gusla\\source\\repos\\IntroASP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21F23599-E960-4476-903D-D0B0F9018B2B}|IntroASP\\IntroASP.csproj|c:\\users\\gusla\\source\\repos\\introasp\\introasp\\views\\brand\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21F23599-E960-4476-903D-D0B0F9018B2B}|IntroASP\\IntroASP.csproj|solutionrelative:introasp\\views\\brand\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F23599-E960-4476-903D-D0B0F9018B2B}|IntroASP\\IntroASP.csproj|c:\\users\\gusla\\source\\repos\\introasp\\introasp\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21F23599-E960-4476-903D-D0B0F9018B2B}|IntroASP\\IntroASP.csproj|solutionrelative:introasp\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F23599-E960-4476-903D-D0B0F9018B2B}|IntroASP\\IntroASP.csproj|c:\\users\\gusla\\source\\repos\\introasp\\introasp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21F23599-E960-4476-903D-D0B0F9018B2B}|IntroASP\\IntroASP.csproj|solutionrelative:introasp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F23599-E960-4476-903D-D0B0F9018B2B}|IntroASP\\IntroASP.csproj|c:\\users\\gusla\\source\\repos\\introasp\\introasp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21F23599-E960-4476-903D-D0B0F9018B2B}|IntroASP\\IntroASP.csproj|solutionrelative:introasp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F23599-E960-4476-903D-D0B0F9018B2B}|IntroASP\\IntroASP.csproj|c:\\users\\gusla\\source\\repos\\introasp\\introasp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21F23599-E960-4476-903D-D0B0F9018B2B}|IntroASP\\IntroASP.csproj|solutionrelative:introasp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F23599-E960-4476-903D-D0B0F9018B2B}|IntroASP\\IntroASP.csproj|c:\\users\\gusla\\source\\repos\\introasp\\introasp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{21F23599-E960-4476-903D-D0B0F9018B2B}|IntroASP\\IntroASP.csproj|solutionrelative:introasp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F23599-E960-4476-903D-D0B0F9018B2B}|IntroASP\\IntroASP.csproj|c:\\users\\gusla\\source\\repos\\introasp\\introasp\\models\\beer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21F23599-E960-4476-903D-D0B0F9018B2B}|IntroASP\\IntroASP.csproj|solutionrelative:introasp\\models\\beer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F23599-E960-4476-903D-D0B0F9018B2B}|IntroASP\\IntroASP.csproj|c:\\users\\gusla\\source\\repos\\introasp\\introasp\\models\\pubcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21F23599-E960-4476-903D-D0B0F9018B2B}|IntroASP\\IntroASP.csproj|solutionrelative:introasp\\models\\pubcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F23599-E960-4476-903D-D0B0F9018B2B}|IntroASP\\IntroASP.csproj|c:\\users\\gusla\\source\\repos\\introasp\\introasp\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21F23599-E960-4476-903D-D0B0F9018B2B}|IntroASP\\IntroASP.csproj|solutionrelative:introasp\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F23599-E960-4476-903D-D0B0F9018B2B}|IntroASP\\IntroASP.csproj|c:\\users\\gusla\\source\\repos\\introasp\\introasp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21F23599-E960-4476-903D-D0B0F9018B2B}|IntroASP\\IntroASP.csproj|solutionrelative:introasp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\gusla\\source\\repos\\IntroASP\\IntroASP\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "IntroASP\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\gusla\\source\\repos\\IntroASP\\IntroASP\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "IntroASP\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T15:44:20.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "C:\\Users\\gusla\\source\\repos\\IntroASP\\IntroASP\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "IntroASP\\Controllers\\BrandController.cs",
+              "ToolTip": "C:\\Users\\gusla\\source\\repos\\IntroASP\\IntroASP\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "IntroASP\\Controllers\\BrandController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T15:18:46.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gusla\\source\\repos\\IntroASP\\IntroASP\\Views\\Brand\\Index.cshtml",
+              "RelativeDocumentMoniker": "IntroASP\\Views\\Brand\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gusla\\source\\repos\\IntroASP\\IntroASP\\Views\\Brand\\Index.cshtml",
+              "RelativeToolTip": "IntroASP\\Views\\Brand\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T15:21:48.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\gusla\\source\\repos\\IntroASP\\IntroASP\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "IntroASP\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\gusla\\source\\repos\\IntroASP\\IntroASP\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "IntroASP\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T15:44:15.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gusla\\source\\repos\\IntroASP\\IntroASP\\Program.cs",
+              "RelativeDocumentMoniker": "IntroASP\\Program.cs",
+              "ToolTip": "C:\\Users\\gusla\\source\\repos\\IntroASP\\IntroASP\\Program.cs",
+              "RelativeToolTip": "IntroASP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T15:10:27.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gusla\\source\\repos\\IntroASP\\IntroASP\\appsettings.json",
+              "RelativeDocumentMoniker": "IntroASP\\appsettings.json",
+              "ToolTip": "C:\\Users\\gusla\\source\\repos\\IntroASP\\IntroASP\\appsettings.json",
+              "RelativeToolTip": "IntroASP\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-22T15:05:02.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Beer.cs",
+              "DocumentMoniker": "C:\\Users\\gusla\\source\\repos\\IntroASP\\IntroASP\\Models\\Beer.cs",
+              "RelativeDocumentMoniker": "IntroASP\\Models\\Beer.cs",
+              "ToolTip": "C:\\Users\\gusla\\source\\repos\\IntroASP\\IntroASP\\Models\\Beer.cs",
+              "RelativeToolTip": "IntroASP\\Models\\Beer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T06:44:06.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\gusla\\source\\repos\\IntroASP\\IntroASP\\Models\\Brand.cs",
+              "RelativeDocumentMoniker": "IntroASP\\Models\\Brand.cs",
+              "ToolTip": "C:\\Users\\gusla\\source\\repos\\IntroASP\\IntroASP\\Models\\Brand.cs",
+              "RelativeToolTip": "IntroASP\\Models\\Brand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T06:44:01.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\gusla\\source\\repos\\IntroASP\\IntroASP\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "IntroASP\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\gusla\\source\\repos\\IntroASP\\IntroASP\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "IntroASP\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T06:43:55.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PubContext.cs",
+              "DocumentMoniker": "C:\\Users\\gusla\\source\\repos\\IntroASP\\IntroASP\\Models\\PubContext.cs",
+              "RelativeDocumentMoniker": "IntroASP\\Models\\PubContext.cs",
+              "ToolTip": "C:\\Users\\gusla\\source\\repos\\IntroASP\\IntroASP\\Models\\PubContext.cs",
+              "RelativeToolTip": "IntroASP\\Models\\PubContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T06:43:24.97Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

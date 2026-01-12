@@ -1,0 +1,14 @@
+C:\Users\gusla\source\repos\OperacionesAritmeticoLogicas\OperacionesAritmeticoLogicas\bin\Debug\net8.0\OperacionesAritmeticoLogicas.exe
+C:\Users\gusla\source\repos\OperacionesAritmeticoLogicas\OperacionesAritmeticoLogicas\bin\Debug\net8.0\OperacionesAritmeticoLogicas.deps.json
+C:\Users\gusla\source\repos\OperacionesAritmeticoLogicas\OperacionesAritmeticoLogicas\bin\Debug\net8.0\OperacionesAritmeticoLogicas.runtimeconfig.json
+C:\Users\gusla\source\repos\OperacionesAritmeticoLogicas\OperacionesAritmeticoLogicas\bin\Debug\net8.0\OperacionesAritmeticoLogicas.dll
+C:\Users\gusla\source\repos\OperacionesAritmeticoLogicas\OperacionesAritmeticoLogicas\bin\Debug\net8.0\OperacionesAritmeticoLogicas.pdb
+C:\Users\gusla\source\repos\OperacionesAritmeticoLogicas\OperacionesAritmeticoLogicas\obj\Debug\net8.0\OperacionesAritmeticoLogicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusla\source\repos\OperacionesAritmeticoLogicas\OperacionesAritmeticoLogicas\obj\Debug\net8.0\OperacionesAritmeticoLogicas.AssemblyInfoInputs.cache
+C:\Users\gusla\source\repos\OperacionesAritmeticoLogicas\OperacionesAritmeticoLogicas\obj\Debug\net8.0\OperacionesAritmeticoLogicas.AssemblyInfo.cs
+C:\Users\gusla\source\repos\OperacionesAritmeticoLogicas\OperacionesAritmeticoLogicas\obj\Debug\net8.0\OperacionesAritmeticoLogicas.csproj.CoreCompileInputs.cache
+C:\Users\gusla\source\repos\OperacionesAritmeticoLogicas\OperacionesAritmeticoLogicas\obj\Debug\net8.0\OperacionesAritmeticoLogicas.dll
+C:\Users\gusla\source\repos\OperacionesAritmeticoLogicas\OperacionesAritmeticoLogicas\obj\Debug\net8.0\refint\OperacionesAritmeticoLogicas.dll
+C:\Users\gusla\source\repos\OperacionesAritmeticoLogicas\OperacionesAritmeticoLogicas\obj\Debug\net8.0\OperacionesAritmeticoLogicas.pdb
+C:\Users\gusla\source\repos\OperacionesAritmeticoLogicas\OperacionesAritmeticoLogicas\obj\Debug\net8.0\OperacionesAritmeticoLogicas.genruntimeconfig.cache
+C:\Users\gusla\source\repos\OperacionesAritmeticoLogicas\OperacionesAritmeticoLogicas\obj\Debug\net8.0\ref\OperacionesAritmeticoLogicas.dll

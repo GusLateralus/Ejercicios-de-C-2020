@@ -1,0 +1,14 @@
+C:\Users\gusla\source\repos\ManejoDeStrings\ManejoDeStrings\bin\Debug\net8.0\ManejoDeStrings.exe
+C:\Users\gusla\source\repos\ManejoDeStrings\ManejoDeStrings\bin\Debug\net8.0\ManejoDeStrings.deps.json
+C:\Users\gusla\source\repos\ManejoDeStrings\ManejoDeStrings\bin\Debug\net8.0\ManejoDeStrings.runtimeconfig.json
+C:\Users\gusla\source\repos\ManejoDeStrings\ManejoDeStrings\bin\Debug\net8.0\ManejoDeStrings.dll
+C:\Users\gusla\source\repos\ManejoDeStrings\ManejoDeStrings\bin\Debug\net8.0\ManejoDeStrings.pdb
+C:\Users\gusla\source\repos\ManejoDeStrings\ManejoDeStrings\obj\Debug\net8.0\ManejoDeStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusla\source\repos\ManejoDeStrings\ManejoDeStrings\obj\Debug\net8.0\ManejoDeStrings.AssemblyInfoInputs.cache
+C:\Users\gusla\source\repos\ManejoDeStrings\ManejoDeStrings\obj\Debug\net8.0\ManejoDeStrings.AssemblyInfo.cs
+C:\Users\gusla\source\repos\ManejoDeStrings\ManejoDeStrings\obj\Debug\net8.0\ManejoDeStrings.csproj.CoreCompileInputs.cache
+C:\Users\gusla\source\repos\ManejoDeStrings\ManejoDeStrings\obj\Debug\net8.0\ManejoDeStrings.dll
+C:\Users\gusla\source\repos\ManejoDeStrings\ManejoDeStrings\obj\Debug\net8.0\refint\ManejoDeStrings.dll
+C:\Users\gusla\source\repos\ManejoDeStrings\ManejoDeStrings\obj\Debug\net8.0\ManejoDeStrings.pdb
+C:\Users\gusla\source\repos\ManejoDeStrings\ManejoDeStrings\obj\Debug\net8.0\ManejoDeStrings.genruntimeconfig.cache
+C:\Users\gusla\source\repos\ManejoDeStrings\ManejoDeStrings\obj\Debug\net8.0\ref\ManejoDeStrings.dll

@@ -1,0 +1,14 @@
+C:\Users\gusla\source\repos\MetodosConsole\MetodosConsole\bin\Debug\net8.0\MetodosConsole.exe
+C:\Users\gusla\source\repos\MetodosConsole\MetodosConsole\bin\Debug\net8.0\MetodosConsole.deps.json
+C:\Users\gusla\source\repos\MetodosConsole\MetodosConsole\bin\Debug\net8.0\MetodosConsole.runtimeconfig.json
+C:\Users\gusla\source\repos\MetodosConsole\MetodosConsole\bin\Debug\net8.0\MetodosConsole.dll
+C:\Users\gusla\source\repos\MetodosConsole\MetodosConsole\bin\Debug\net8.0\MetodosConsole.pdb
+C:\Users\gusla\source\repos\MetodosConsole\MetodosConsole\obj\Debug\net8.0\MetodosConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusla\source\repos\MetodosConsole\MetodosConsole\obj\Debug\net8.0\MetodosConsole.AssemblyInfoInputs.cache
+C:\Users\gusla\source\repos\MetodosConsole\MetodosConsole\obj\Debug\net8.0\MetodosConsole.AssemblyInfo.cs
+C:\Users\gusla\source\repos\MetodosConsole\MetodosConsole\obj\Debug\net8.0\MetodosConsole.csproj.CoreCompileInputs.cache
+C:\Users\gusla\source\repos\MetodosConsole\MetodosConsole\obj\Debug\net8.0\MetodosConsole.dll
+C:\Users\gusla\source\repos\MetodosConsole\MetodosConsole\obj\Debug\net8.0\refint\MetodosConsole.dll
+C:\Users\gusla\source\repos\MetodosConsole\MetodosConsole\obj\Debug\net8.0\MetodosConsole.pdb
+C:\Users\gusla\source\repos\MetodosConsole\MetodosConsole\obj\Debug\net8.0\MetodosConsole.genruntimeconfig.cache
+C:\Users\gusla\source\repos\MetodosConsole\MetodosConsole\obj\Debug\net8.0\ref\MetodosConsole.dll

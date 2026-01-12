@@ -1,0 +1,14 @@
+C:\Users\gusla\source\repos\TiposDatos\TiposDatos\bin\Debug\net8.0\TiposDatos.exe
+C:\Users\gusla\source\repos\TiposDatos\TiposDatos\bin\Debug\net8.0\TiposDatos.deps.json
+C:\Users\gusla\source\repos\TiposDatos\TiposDatos\bin\Debug\net8.0\TiposDatos.runtimeconfig.json
+C:\Users\gusla\source\repos\TiposDatos\TiposDatos\bin\Debug\net8.0\TiposDatos.dll
+C:\Users\gusla\source\repos\TiposDatos\TiposDatos\bin\Debug\net8.0\TiposDatos.pdb
+C:\Users\gusla\source\repos\TiposDatos\TiposDatos\obj\Debug\net8.0\TiposDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusla\source\repos\TiposDatos\TiposDatos\obj\Debug\net8.0\TiposDatos.AssemblyInfoInputs.cache
+C:\Users\gusla\source\repos\TiposDatos\TiposDatos\obj\Debug\net8.0\TiposDatos.AssemblyInfo.cs
+C:\Users\gusla\source\repos\TiposDatos\TiposDatos\obj\Debug\net8.0\TiposDatos.csproj.CoreCompileInputs.cache
+C:\Users\gusla\source\repos\TiposDatos\TiposDatos\obj\Debug\net8.0\TiposDatos.dll
+C:\Users\gusla\source\repos\TiposDatos\TiposDatos\obj\Debug\net8.0\refint\TiposDatos.dll
+C:\Users\gusla\source\repos\TiposDatos\TiposDatos\obj\Debug\net8.0\TiposDatos.pdb
+C:\Users\gusla\source\repos\TiposDatos\TiposDatos\obj\Debug\net8.0\TiposDatos.genruntimeconfig.cache
+C:\Users\gusla\source\repos\TiposDatos\TiposDatos\obj\Debug\net8.0\ref\TiposDatos.dll

@@ -1,0 +1,15 @@
+C:\Users\gusla\source\repos\CondicionalesMultiples\CondicionalesMultiples\bin\Debug\net8.0\CondicionalesMultiples.exe
+C:\Users\gusla\source\repos\CondicionalesMultiples\CondicionalesMultiples\bin\Debug\net8.0\CondicionalesMultiples.deps.json
+C:\Users\gusla\source\repos\CondicionalesMultiples\CondicionalesMultiples\bin\Debug\net8.0\CondicionalesMultiples.runtimeconfig.json
+C:\Users\gusla\source\repos\CondicionalesMultiples\CondicionalesMultiples\bin\Debug\net8.0\CondicionalesMultiples.dll
+C:\Users\gusla\source\repos\CondicionalesMultiples\CondicionalesMultiples\bin\Debug\net8.0\CondicionalesMultiples.pdb
+C:\Users\gusla\source\repos\CondicionalesMultiples\CondicionalesMultiples\obj\Debug\net8.0\CondicionalesMultiples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusla\source\repos\CondicionalesMultiples\CondicionalesMultiples\obj\Debug\net8.0\CondicionalesMultiples.AssemblyInfoInputs.cache
+C:\Users\gusla\source\repos\CondicionalesMultiples\CondicionalesMultiples\obj\Debug\net8.0\CondicionalesMultiples.AssemblyInfo.cs
+C:\Users\gusla\source\repos\CondicionalesMultiples\CondicionalesMultiples\obj\Debug\net8.0\CondicionalesMultiples.csproj.CoreCompileInputs.cache
+C:\Users\gusla\source\repos\CondicionalesMultiples\CondicionalesMultiples\obj\Debug\net8.0\CondicionalesMultiples.sourcelink.json
+C:\Users\gusla\source\repos\CondicionalesMultiples\CondicionalesMultiples\obj\Debug\net8.0\CondicionalesMultiples.dll
+C:\Users\gusla\source\repos\CondicionalesMultiples\CondicionalesMultiples\obj\Debug\net8.0\refint\CondicionalesMultiples.dll
+C:\Users\gusla\source\repos\CondicionalesMultiples\CondicionalesMultiples\obj\Debug\net8.0\CondicionalesMultiples.pdb
+C:\Users\gusla\source\repos\CondicionalesMultiples\CondicionalesMultiples\obj\Debug\net8.0\CondicionalesMultiples.genruntimeconfig.cache
+C:\Users\gusla\source\repos\CondicionalesMultiples\CondicionalesMultiples\obj\Debug\net8.0\ref\CondicionalesMultiples.dll

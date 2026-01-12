@@ -1,0 +1,14 @@
+C:\Users\gusla\source\repos\Ejercicio2_Operadores\Ejercicio2_Operadores\bin\Debug\net8.0\Ejercicio2_Operadores.exe
+C:\Users\gusla\source\repos\Ejercicio2_Operadores\Ejercicio2_Operadores\bin\Debug\net8.0\Ejercicio2_Operadores.deps.json
+C:\Users\gusla\source\repos\Ejercicio2_Operadores\Ejercicio2_Operadores\bin\Debug\net8.0\Ejercicio2_Operadores.runtimeconfig.json
+C:\Users\gusla\source\repos\Ejercicio2_Operadores\Ejercicio2_Operadores\bin\Debug\net8.0\Ejercicio2_Operadores.dll
+C:\Users\gusla\source\repos\Ejercicio2_Operadores\Ejercicio2_Operadores\bin\Debug\net8.0\Ejercicio2_Operadores.pdb
+C:\Users\gusla\source\repos\Ejercicio2_Operadores\Ejercicio2_Operadores\obj\Debug\net8.0\Ejercicio2_Operadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusla\source\repos\Ejercicio2_Operadores\Ejercicio2_Operadores\obj\Debug\net8.0\Ejercicio2_Operadores.AssemblyInfoInputs.cache
+C:\Users\gusla\source\repos\Ejercicio2_Operadores\Ejercicio2_Operadores\obj\Debug\net8.0\Ejercicio2_Operadores.AssemblyInfo.cs
+C:\Users\gusla\source\repos\Ejercicio2_Operadores\Ejercicio2_Operadores\obj\Debug\net8.0\Ejercicio2_Operadores.csproj.CoreCompileInputs.cache
+C:\Users\gusla\source\repos\Ejercicio2_Operadores\Ejercicio2_Operadores\obj\Debug\net8.0\Ejercicio2_Operadores.dll
+C:\Users\gusla\source\repos\Ejercicio2_Operadores\Ejercicio2_Operadores\obj\Debug\net8.0\refint\Ejercicio2_Operadores.dll
+C:\Users\gusla\source\repos\Ejercicio2_Operadores\Ejercicio2_Operadores\obj\Debug\net8.0\Ejercicio2_Operadores.pdb
+C:\Users\gusla\source\repos\Ejercicio2_Operadores\Ejercicio2_Operadores\obj\Debug\net8.0\Ejercicio2_Operadores.genruntimeconfig.cache
+C:\Users\gusla\source\repos\Ejercicio2_Operadores\Ejercicio2_Operadores\obj\Debug\net8.0\ref\Ejercicio2_Operadores.dll

@@ -1,0 +1,14 @@
+C:\Users\gusla\source\repos\EntradaSalidaPorConsola\EntradaSalidaPorConsola\bin\Debug\net8.0\EntradaSalidaPorConsola.exe
+C:\Users\gusla\source\repos\EntradaSalidaPorConsola\EntradaSalidaPorConsola\bin\Debug\net8.0\EntradaSalidaPorConsola.deps.json
+C:\Users\gusla\source\repos\EntradaSalidaPorConsola\EntradaSalidaPorConsola\bin\Debug\net8.0\EntradaSalidaPorConsola.runtimeconfig.json
+C:\Users\gusla\source\repos\EntradaSalidaPorConsola\EntradaSalidaPorConsola\bin\Debug\net8.0\EntradaSalidaPorConsola.dll
+C:\Users\gusla\source\repos\EntradaSalidaPorConsola\EntradaSalidaPorConsola\bin\Debug\net8.0\EntradaSalidaPorConsola.pdb
+C:\Users\gusla\source\repos\EntradaSalidaPorConsola\EntradaSalidaPorConsola\obj\Debug\net8.0\EntradaSalidaPorConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusla\source\repos\EntradaSalidaPorConsola\EntradaSalidaPorConsola\obj\Debug\net8.0\EntradaSalidaPorConsola.AssemblyInfoInputs.cache
+C:\Users\gusla\source\repos\EntradaSalidaPorConsola\EntradaSalidaPorConsola\obj\Debug\net8.0\EntradaSalidaPorConsola.AssemblyInfo.cs
+C:\Users\gusla\source\repos\EntradaSalidaPorConsola\EntradaSalidaPorConsola\obj\Debug\net8.0\EntradaSalidaPorConsola.csproj.CoreCompileInputs.cache
+C:\Users\gusla\source\repos\EntradaSalidaPorConsola\EntradaSalidaPorConsola\obj\Debug\net8.0\EntradaSalidaPorConsola.dll
+C:\Users\gusla\source\repos\EntradaSalidaPorConsola\EntradaSalidaPorConsola\obj\Debug\net8.0\refint\EntradaSalidaPorConsola.dll
+C:\Users\gusla\source\repos\EntradaSalidaPorConsola\EntradaSalidaPorConsola\obj\Debug\net8.0\EntradaSalidaPorConsola.pdb
+C:\Users\gusla\source\repos\EntradaSalidaPorConsola\EntradaSalidaPorConsola\obj\Debug\net8.0\EntradaSalidaPorConsola.genruntimeconfig.cache
+C:\Users\gusla\source\repos\EntradaSalidaPorConsola\EntradaSalidaPorConsola\obj\Debug\net8.0\ref\EntradaSalidaPorConsola.dll

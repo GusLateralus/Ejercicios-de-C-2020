@@ -1,0 +1,15 @@
+C:\Users\gusla\source\repos\VariablesYoperadores\VariablesYoperadores\bin\Debug\net8.0\VariablesYoperadores.exe
+C:\Users\gusla\source\repos\VariablesYoperadores\VariablesYoperadores\bin\Debug\net8.0\VariablesYoperadores.deps.json
+C:\Users\gusla\source\repos\VariablesYoperadores\VariablesYoperadores\bin\Debug\net8.0\VariablesYoperadores.runtimeconfig.json
+C:\Users\gusla\source\repos\VariablesYoperadores\VariablesYoperadores\bin\Debug\net8.0\VariablesYoperadores.dll
+C:\Users\gusla\source\repos\VariablesYoperadores\VariablesYoperadores\bin\Debug\net8.0\VariablesYoperadores.pdb
+C:\Users\gusla\source\repos\VariablesYoperadores\VariablesYoperadores\obj\Debug\net8.0\VariablesYoperadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusla\source\repos\VariablesYoperadores\VariablesYoperadores\obj\Debug\net8.0\VariablesYoperadores.AssemblyInfoInputs.cache
+C:\Users\gusla\source\repos\VariablesYoperadores\VariablesYoperadores\obj\Debug\net8.0\VariablesYoperadores.AssemblyInfo.cs
+C:\Users\gusla\source\repos\VariablesYoperadores\VariablesYoperadores\obj\Debug\net8.0\VariablesYoperadores.csproj.CoreCompileInputs.cache
+C:\Users\gusla\source\repos\VariablesYoperadores\VariablesYoperadores\obj\Debug\net8.0\VariablesYoperadores.sourcelink.json
+C:\Users\gusla\source\repos\VariablesYoperadores\VariablesYoperadores\obj\Debug\net8.0\VariablesYoperadores.dll
+C:\Users\gusla\source\repos\VariablesYoperadores\VariablesYoperadores\obj\Debug\net8.0\refint\VariablesYoperadores.dll
+C:\Users\gusla\source\repos\VariablesYoperadores\VariablesYoperadores\obj\Debug\net8.0\VariablesYoperadores.pdb
+C:\Users\gusla\source\repos\VariablesYoperadores\VariablesYoperadores\obj\Debug\net8.0\VariablesYoperadores.genruntimeconfig.cache
+C:\Users\gusla\source\repos\VariablesYoperadores\VariablesYoperadores\obj\Debug\net8.0\ref\VariablesYoperadores.dll

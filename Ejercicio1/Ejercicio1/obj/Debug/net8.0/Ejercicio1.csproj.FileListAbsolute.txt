@@ -1,0 +1,15 @@
+C:\Users\gusla\source\repos\Ejercicio1\Ejercicio1\bin\Debug\net8.0\Ejercicio1.exe
+C:\Users\gusla\source\repos\Ejercicio1\Ejercicio1\bin\Debug\net8.0\Ejercicio1.deps.json
+C:\Users\gusla\source\repos\Ejercicio1\Ejercicio1\bin\Debug\net8.0\Ejercicio1.runtimeconfig.json
+C:\Users\gusla\source\repos\Ejercicio1\Ejercicio1\bin\Debug\net8.0\Ejercicio1.dll
+C:\Users\gusla\source\repos\Ejercicio1\Ejercicio1\bin\Debug\net8.0\Ejercicio1.pdb
+C:\Users\gusla\source\repos\Ejercicio1\Ejercicio1\obj\Debug\net8.0\Ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusla\source\repos\Ejercicio1\Ejercicio1\obj\Debug\net8.0\Ejercicio1.AssemblyInfoInputs.cache
+C:\Users\gusla\source\repos\Ejercicio1\Ejercicio1\obj\Debug\net8.0\Ejercicio1.AssemblyInfo.cs
+C:\Users\gusla\source\repos\Ejercicio1\Ejercicio1\obj\Debug\net8.0\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\gusla\source\repos\Ejercicio1\Ejercicio1\obj\Debug\net8.0\Ejercicio1.sourcelink.json
+C:\Users\gusla\source\repos\Ejercicio1\Ejercicio1\obj\Debug\net8.0\Ejercicio1.dll
+C:\Users\gusla\source\repos\Ejercicio1\Ejercicio1\obj\Debug\net8.0\refint\Ejercicio1.dll
+C:\Users\gusla\source\repos\Ejercicio1\Ejercicio1\obj\Debug\net8.0\Ejercicio1.pdb
+C:\Users\gusla\source\repos\Ejercicio1\Ejercicio1\obj\Debug\net8.0\Ejercicio1.genruntimeconfig.cache
+C:\Users\gusla\source\repos\Ejercicio1\Ejercicio1\obj\Debug\net8.0\ref\Ejercicio1.dll
